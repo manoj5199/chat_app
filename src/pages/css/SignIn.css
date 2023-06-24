@@ -1,5 +1,5 @@
 .signin_container {
-  min-width: 800px;
+  min-width: 600px;
   min-height: 600px;
   background-color: white;
   border-radius: 1rem;
@@ -8,7 +8,7 @@
   align-items: center;
   gap: 4rem;
   overflow: hidden;
-  box-shadow: 2px 2px red;
+  box-shadow: 0px 0px 70px #999;
 }
 .signin_image_container {
   width: 100%;
@@ -44,7 +44,7 @@
   background-color: rgba(93, 114, 126, 0.7);
 }
 .signin_image {
-  width: 800px;
+  width: 600px;
   transform: translateY(-25%);
   z-index: 1;
 }
