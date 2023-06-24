@@ -8,6 +8,7 @@
   align-items: center;
   gap: 4rem;
   overflow: hidden;
+  box-shadow: 2px 2px red;
 }
 .signin_image_container {
   width: 100%;
